@@ -56,8 +56,8 @@ const Sidebar = () => {
                 </div>)
             })}
             <div className="flex absolute bottom-4 items-center md:justify-start justify-center gap-2 md:w-[90%] w-[70%] rounded-lg hover:bg-orange-300 px-2 py-3 cursor-pointer bg-gray-200">
-            <RiLogoutBoxRLine />
-            <span className="font-medium text-[15px] md:block hidden">Log Out</span>
+             <RiLogoutBoxRLine />
+             <span className="font-medium text-[15px] md:block hidden">Log Out</span>
             </div>
         </div>
     </div>
